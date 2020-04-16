@@ -10,18 +10,15 @@
     width: 50px;
     height: 50px;
     padding: 0%;
+
 }
 
-.casillaO{
-    width: 50px;
-    height: 50px;
+.O{
     color: blue;
     padding: 0%;
 }
 
-.casillaX{
-    width: 50px;
-    height: 50px;
+.X{
     color: red;
     padding: 0%;
 }
